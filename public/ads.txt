@@ -1,0 +1,8 @@
+# ads.txt file for fuegojuegoblog.com
+# This file is used to authorize digital advertising sellers
+
+google.com, pub-XXXXXXXXXX, DIRECT, f08c47fec0942fa0
+# Replace pub-XXXXXXXXXX with your actual Google AdSense publisher ID
+
+# Additional ad networks can be added here
+# Format: domain, publisher_id, relationship, certification_authority_id
