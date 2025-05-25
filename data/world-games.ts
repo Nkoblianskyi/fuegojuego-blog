@@ -43,20 +43,6 @@ export const worldGames: WorldGame[] = [
     age: "6+",
   },
   {
-    id: "loteria",
-    title: "Lotería Mexicana",
-    country: "México",
-    countryCode: "MX",
-    flag: "🇲🇽",
-    continent: "América",
-    description: "Juego de azar tradicional similar al bingo, pero con imágenes icónicas.",
-    funFact: "Las cartas tienen ilustraciones que son parte del folclore mexicano desde el siglo XVIII",
-    image: "/50ac076aa7aa8c4aa5ca225f2a4c5bc5.jpg",
-    type: "traditional",
-    players: "2+ jugadores",
-    age: "4+",
-  },
-  {
     id: "mancala",
     title: "Mancala",
     country: "África",
@@ -132,7 +118,6 @@ export const continents = [
   { id: "all", name: "Todos" },
   { id: "Asia", name: "Asia" },
   { id: "África", name: "África"},
-  { id: "América", name: "América" },
   { id: "Europa", name: "Europa" },
   { id: "Oceanía", name: "Oceanía" },
 ]
